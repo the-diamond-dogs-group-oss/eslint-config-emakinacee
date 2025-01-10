@@ -1,2 +1,1 @@
-# eslint-config-emakinacee
-epam bugbounty POC
+## epam bugbounty POC
